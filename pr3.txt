@@ -1,0 +1,5 @@
+total 16
+4 drwxr-xr-x  4 root          root          4096 Feb 22 15:41 .
+4 drwxr-xr-x 18 root          root          4096 Sep 22 01:34 ..
+4 drwxr-xr-x 18 pi            pi            4096 Feb 22 15:50 pi
+4 drwxr-xr-x  2 sravan_suresh sravan_suresh 4096 Feb 22 15:41 sravan_suresh

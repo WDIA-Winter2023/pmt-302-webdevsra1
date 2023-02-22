@@ -1,0 +1,20 @@
+.
+├── Bookshelf
+│   └── BeginnersGuide-4thEd-Eng_v2.pdf
+├── Desktop
+├── Documents
+├── Downloads
+├── midtermExam
+├── midtermPi.txt
+├── mt.txt
+├── Music
+├── Pictures
+├── pr1.txt
+├── pr2.txt
+├── pr.txt
+├── Public
+├── sravansuresh.txt
+├── Templates
+└── Videos
+
+10 directories, 7 files
